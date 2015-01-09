@@ -6,9 +6,9 @@ Maxima_vennplot
 <dt>Usage:</dt>
 <dd>vennplot(number-of-sets,logical_relation,[list of logical atoms])</dd>
 <dd>example,</dd>
-        <dd>vennplot2(1,not(a),[a]);</dd>
-        <dd>vennplot(2,a and  not(b) ,[a,b]);</dd>
-        <dd>vennplot2(3,a and b or (c) or d,[a,b,c]);</dd>
+        <dd>vennplot(not(a));</dd>
+        <dd>vennplot(a and  not(b));</dd>
+        <dd>vennplot2(a and b or (c) or d);</dd>
         </dl>
 
 
