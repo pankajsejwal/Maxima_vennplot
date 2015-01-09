@@ -8,7 +8,7 @@ Maxima_vennplot
 <dd>example,</dd>
         <dd>vennplot(not(a));</dd>
         <dd>vennplot(a and  not(b));</dd>
-        <dd>vennplot2(a and b or (c) or d);</dd>
+        <dd>vennplot(a and b or (c) or d);</dd>
         </dl>
 
 
